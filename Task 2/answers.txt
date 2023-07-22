@@ -1,0 +1,10 @@
+1) individuals and interactions over processes and tools: programming is done in pairs and the whole development team is accountable for the code. the team could get in trouble is one member is not very experienced or slower in programming
+    working software over comprehensive documentation:  system is released every few weeks. requirements may not get to the de in time or late. so if there needs to be good communication between developers.
+    customer collaboration over contract negotiation: client is ket member of team. so if the client take long to respond to developers or doesnt follow certain responsiblities to complete the tasks.
+    responding to change over following a plan: if the planning is not regularly released and designed before code is written. so communication is key again 
+
+2) Agility - The ability to move quickly and easily
+
+3) Peoples needs and expections changes all the time so therefore software programming needs to change to accommodate those business needs. the changes also need to be done quickly and correctly because time is money in the business world.
+
+4) Help programmers develop a better understaning of the program. also to keeps delevopers honest about where the defects are.

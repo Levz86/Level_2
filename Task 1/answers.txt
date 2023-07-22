@@ -1,0 +1,16 @@
+1) A system to control anti_lock braking in a car
+Waterfall Model - a braking system needs to be programmed that is one function does does work properly the rest shouldnt. brakes are important in a car it that is not working properly it is a problem.
+
+A virtual reality system to support software maintenance
+Incremental Development Model - the virtual reality system is supporting the maintenance so that would mean the the software can run without it as well.
+
+A university accounting system that replaces an existing system
+Reuse Orientated Software Engineering Model - because this will make code that is added to an existing program.
+
+An interactive travel planning system that helps users plan journeys with the lowest enviromental impact
+Incremental Development Model - series of versions to plan journeys. useful software deliver and deployed quicker. is it easier to change the system according to the users needs, and cheaper.
+
+2) There are different aspecs to a bussiness, different systems doing different things. and certain things that need updating or adding to exisiting programs.
+Real time systems - are designed to operate in a specific way and cannot be easily modified, making incremental development less appropriate.
+
+3) because you are not wasting time on work that is already been done, it can be cost-effective, save time and reuse the risks that accompany newly built components.

@@ -1,0 +1,26 @@
+1) Web 3.0, also known as the Semantic Web, is the next stage in the evolution of the internet. Unlike its predecessors, Web 1.0 and Web 2.0, Web 3.0 is designed to be more intelligent, personalized, and intuitive.
+
+Web 1.0, which began in the early 1990s, was characterized by static websites that provided limited information and had minimal interactivity. Web 1.0 was essentially a one-way street, with users consuming information but not contributing to it.
+
+Web 2.0, which emerged in the early 2000s, marked a major shift in the way people used the internet. Web 2.0 was characterized by user-generated content, social networking, and online collaboration. Websites like Wikipedia, Facebook, and YouTube are examples of Web 2.0 platforms.
+
+Web 3.0 builds on the innovations of Web 2.0 by adding more intelligence and personalization to the mix. With Web 3.0, the internet will be able to understand and interpret human language, making it easier for people to find and consume information. Web 3.0 will also allow for more personalized experiences, as websites will be able to use data to deliver content that is tailored to the individual user.
+
+One of the key technologies driving Web 3.0 is the blockchain, a decentralized ledger that allows for secure and transparent transactions without the need for intermediaries. The blockchain is the backbone of cryptocurrencies like Bitcoin and Ethereum, but it can also be used for a wide range of other applications, from supply chain management to voting systems.
+
+Overall, Web 3.0 promises to be a more intelligent, decentralized, and secure version of the internet, one that is better equipped to meet the needs of a rapidly changing world. (www.geekforgeeks.com)
+
+2) The front-end and back-end of a web application are two separate but interconnected parts that work together to provide a complete user experience.
+The front-end, also known as the client-side, is the part of the application that the user interacts with directly. This includes the user interface (UI), which is the visual representation of the application, and the user experience (UX), which encompasses how the user interacts with the UI. The front-end is responsible for rendering the content and presenting it to the user in a way that is visually appealing and easy to understand. Front-end technologies include HTML, CSS, and JavaScript.
+
+The back-end, also known as the server-side, is the part of the application that handles the processing and storage of data. It is responsible for retrieving and manipulating data from databases, processing user input, and handling business logic. The back-end is also responsible for generating the dynamic content that is presented to the user on the front-end. Back-end technologies include programming languages like Java, Python, and Ruby. (friend)
+
+3) You enter the URL in the browser
+the browser looks for the IP address of the domain name in the DNS (domain name server)
+The browser initiates a TCP connection with the server
+The browser sends an HTTP request to the server
+The server handles the incoming request and sends an HTTP response
+The browser displays the HTML content (www.afteracademy.com)
+
+
+

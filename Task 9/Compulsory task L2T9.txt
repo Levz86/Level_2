@@ -1,0 +1,22 @@
+1) Data - In computing, data is information that has been translated into a form that is efficient for movement or processing. Relative to today's computers and transmission media, data is information converted into binary digital form. (www.techtarget.com)
+Field - Fields are the components that provide structure for a table. You can't have a table without fields. For instance, you can create an empty table that has fields defined but no rows (records). In databases, fields are used to maintain relationships between tables. (www.metabase.com)
+Record - Records in a database or spreadsheet are usually called "rows". A record is a collection of fields, possibly of different data types, typically in a fixed number and sequence. (www.wikipedia.org)
+File - A database file is one of the several types of the system object type *FILE. A database file contains descriptions of how input data is to be presented to a program from internal storage and how output data is to be presented to internal storage from a program. (www.ibm.com)
+
+2) DBMS - Stands for Database Management System. it is a collection of programs, which  works to manage the database structure and control access to the data stored in the database. It serves as an intermediary between the user and the database.
+Advantages of DBMS - 
+Better data sharing - by managing the database and controlling access to data within it, the DBMS makes is possile for end_users to have more efficient access to data that is better managed
+Improved data integration - by facilitating a variety of end_users to access data in a well managed manner, the DBMS helps provide a clearer and more integrated view of the organization’s operations to the end-users.
+Minimised data inconsistency - data inconsistency occurs when different versions of the same data appear in different places. A properly designed data base greatly reduces the probability of data inconsistency as data is drawn from a variety of sources or end-users.
+Improved data access - a query is a specific request for data manipulation (e.g.to read or update the data)sent to the DBMS. The DBMS makes it possible to produce quick answers to spur-of-the-moment queries.
+Improved decision making - better quality information(on which decisions are made) is generated due to better-managed data and improved data access.Increased end-user productivity - the availability of data and the ability to transform data into usable information encourage send -users to make quicker and more informed decisions. (hyperion.com notes )
+
+3)Data refers to raw facts and figures that are collected, stored, and processed by a computer system. Data can come in various forms, including numbers, text, images, video, or audio. Data can be meaningless on its own and lacks context until it is processed and organized into meaningful information.
+
+Information, on the other hand, is the result of processing and analyzing data to extract meaning and context. Information is derived from data when it is processed and organized in a way that makes it useful and valuable for decision-making or problem-solving. It represents a knowledge or understanding that can be communicated to others.
+
+4)Metadata is a set of data that provides information about other data. Metadata contextualizes other data — providing information such as when and how it was gathered — which makes the data easier to find, understand, use, and manage.
+
+5) e) There are 4 records
+    f) there are 5 fields per a record
+

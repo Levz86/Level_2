@@ -1,0 +1,50 @@
+1)Normalization is the process of organizing data in a database. This includes creating tables and establishing relationships between those tables according to rules designed both to protect the data and to make the database more flexible by eliminating redundancy and inconsistent dependency. (www.learn.microsoft.com)
+
+2)First Normal Form (1NF): 
+If a relation contains a composite or multi-valued attribute, it violates the first normal form, or the relation is in first normal form if it does not contain any composite or multi-valued attribute. A relation is in first normal form if every attribute in that relation is singled valued attribute. 
+
+A table is in 1 NF if: 
+
+There are only Single Valued Attributes.
+Attribute Domain does not change.
+There is a unique name for every Attribute/Column.
+The order in which data is stored does not matter.(www.geeksforgeeks.org)
+
+
+3)Second Normal Form (2NF) is a database normalization technique that helps to reduce data redundancy and improve data integrity. It is based on the concept of functional dependencies, which describes the relationship between two attributes in a table.
+
+A table is said to be in 2NF if it is already in First Normal Form (1NF) and no non-prime attribute (an attribute that is not part of any candidate key) is dependent on only a part of a candidate key. In other words, every non-prime attribute must be fully dependent on the entire candidate key.
+
+To achieve 2NF, we need to identify the functional dependencies that exist in a table and then decompose the table into smaller tables based on those dependencies. The resulting tables should have only one candidate key and every non-prime attribute should be fully dependent on that key.
+
+By decomposing the table in this way, we eliminate the redundancy caused by repeating the same product name for each order, and we ensure that each table has only one candidate key and every non-prime attribute is fully dependent on that key. (Nilo Cara)
+
+4) Third Normal Form (3NF) is a database normalization technique that helps to eliminate data redundancy and inconsistency. It is an advanced form of normalization, which builds upon the first two normal forms (1NF and 2NF).
+
+In 3NF, a table is said to be in third normal form if it satisfies the following conditions:
+
+It is in second normal form (2NF).
+All non-key attributes in the table are dependent on the primary key.
+Overall, 3NF is important because it helps to improve the efficiency of database operations, reduces data redundancy, and ensures data consistency.(Nilo Cara)
+
+5) 1NF - Full Dependency - INV_NUM, PROD_NUM -> QUANT_SOLD
+Transitive Dependency - VEND_CODE -> VEND_NAME
+Partial Dependency - INV_NUM -> SALE_DATE
+Partial Dependency - PROD_NUM -> PROD_LABEL, PROD_PRICE, VEND_CODE, VEND_NAME
+Refer to 1NF.png
+
+6) 2NF - PROD_NUM, PROD_LABEL, PROD_PRICE, VEND_CODE, VEND_NAME
+Transitive Dependency - VEND_CODE -> VEND_NAME
+
+3NF - INV_NUM, PROD_NUM, QUANT_SOLD
+
+3NF - INV_NUM, SALE_DATE
+Refer to 2NF.png
+
+7) 3NF - PROD_NUM, PROD_LABEL,PROD_PRICE, VEND_CODE
+
+3NF - VEND_CODE -> VEND_NAME
+Refer to 3NF.png
+
+
+

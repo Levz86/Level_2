@@ -1,0 +1,19 @@
+body {
+    font-family:Verdana;
+    color:blue;
+    background-color:pink;
+    text-align:center;
+    }
+
+header {
+    color:blue; 
+    font-family:Verdana;
+    text-align:center;
+    }
+body{
+    p{
+        color: red;
+        font-family: Verdana;
+        text-align:center;
+    }
+    }

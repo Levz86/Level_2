@@ -1,0 +1,11 @@
+1) it is not clear how the user selects the destination. Also if i wanted to select more than one destination. would the system allow this? 
+What if the credit card is invalid. does the sytem ask for valid credit card information and transaction canceled
+it states that a ticket will be issued, does that mean it will print a ticket or have something online? how will it show proof of ticket being issued?
+
+2) the system should be clear for users to select their destination.
+it should give clear and helpful error messages when the credit card is invalid or ID number is inncorrect
+there should be options to add more than one destination
+it should print a physical ticket with all the trip and train information on the ticket
+the trip information should also be sent via sms to the users cellphone
+
+it is assumed the system should accept all major credit cards

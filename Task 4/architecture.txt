@@ -1,0 +1,27 @@
+1) Question 1:
+The client-server Architecture:
+The client-server pattern has two major entities. They are a server and multiple clients.  
+Here the server has resources(data, files or services) and a client requests the server for a particular resource. Then the server processes the request and responds back accordingly.
+Examples of software developed in this pattern:  
+Email.
+WWW.
+File sharing apps.
+Banking. (www.geeksforgeeks.org)
+
+Event-Driven Architecture:
+Event-Driven Architecture is an agile approach in which services (operations) of the software are triggered by events.  
+When a user takes action in the application built using the EDA approach, a state change happens and a reaction is generated that is called an event.
+Eg: A new user fills the signup form and clicks the signup button on Facebook and then a FB account is created for him, which is an event.
+(www.geeksforgeeks.org)
+
+REPOSITORY ARCHITECTURE
+The Repository architecture pattern is commonly used to abstract the storage, retrieval, and querying of data in a system. It provides a central location for data storage and retrieval, which simplifies data management and allows for more modular and extensible code. Some examples of when the Repository pattern would be most appropriate to use include:
+An e-commerce website: In an e-commerce website, there is typically a lot of data that needs to be stored and retrieved, such as product information, customer data, and order history. By using a Repository pattern, the data can be managed more efficiently and in a centralized location, which makes it easier to maintain and extend the website's functionality over time.
+A financial trading platform: In a financial trading platform, there is a lot of data that needs to be stored and retrieved in real-time, such as market data, trade history, and user account information. By using a Repository pattern, the system can handle the large volume of data more efficiently and in a scalable way, which is critical for the success of the platform.
+
+
+2) Question 2:
+
+1. Layered Architecture + Repository Pattern: This combination is often used in enterprise-level software systems. Layered architecture involves separating the system into different layers, where each layer performs a specific set of functions. The Repository pattern is used to provide a separation between the application and the database. Combining these two patterns allows for a highly modular and scalable system, where changes to one layer do not affect the other layers. This architecture is often used in systems where security, scalability, and maintainability are critical, such as banking systems or healthcare systems.
+
+2. Client-Server Architecture + Pipe and Filter Architecture: This combination is often used in web applications that require real-time data processing. Client-Server architecture involves separating the system into two parts, the client and the server, where the client sends requests to the server and the server processes those requests and sends back responses. The Pipe and Filter architecture involves separating the data processing into a series of filters that are connected through pipes, where each filter performs a specific task. Combining these two patterns allows for real-time data processing, where the server can process requests using a series of filters and send back responses to the client. This architecture is often used in systems that require real-time data processing, such as trading systems or real-time monitoring systems.
